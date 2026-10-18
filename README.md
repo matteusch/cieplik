@@ -14,6 +14,7 @@ An nRF54LM20 DK next to the riser. It scans the fleet, time-syncs the satellites
 ### App
 A simple Android phone app that logs the errors and allows the user to view the data and data history live. The user can also clear the alerts in the app once maintenance is done.
 
+```mermaid
 flowchart LR
   subgraph sat["Satellite (one per radiator)"]
     s1["ESP32-C3 Super Mini"] 
@@ -29,3 +30,4 @@ flowchart LR
   end
   hub1 -- "GATT" --> app["Phone app"]
   app -- "clear alert + relearn baseline" --> hub1
+```
