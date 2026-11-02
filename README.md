@@ -58,10 +58,10 @@ Every heating cycle, each radiator is labelled with one of:
 
 ## Status
 
-In active development, and honest about it:
+In active development:
 
 * Satellite firmware bring-up is under way on real hardware: the HTU31D room sensor is verified on the bench, and bus communication basics are committed.
-* The nRF54LM20 DK (the designed hub) is pending the contest hardware announcement on Nov 20. Until then a laptop acts as a temporary demo hub - the fleet does not wait for hardware.
+* The nRF54LM20 DK (the designed hub) is pending the contest hardware announcement on Nov 20. Until then, a laptop acts as a temporary demo hub.
 * The phone app and the on-device classifier come next, once the fleet is logging.
 
 ## Hardware
