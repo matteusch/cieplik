@@ -12,10 +12,6 @@ My entry for the Nordic Semiconductor / Hackster **Sustain the System** contest 
 
 </div>
 
-## The problem
-
-Radiators get maintained by the calendar, not by evidence: they get bled in October whether they need it or not, and a TRV gets checked only when someone happens to notice a cold room. Cieplik replaces that guesswork with measurement - a sensor per radiator that knows which panel actually has a problem, and what the problem is, before you feel it.
-
 ## How it works
 
 ### Satellites
